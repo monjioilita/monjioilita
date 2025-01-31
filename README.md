@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @monjioilita
+- 👀 I’m interested in Nanotechnologies, Robotics, Quantum Computing, Forense, Quantum Chemistry, Quantum Physics, Electronics, Drones, AI, Machine Learning, Cloud Computing, Forense Investigation and Operations, Cybersecurity and Hacking, SOC, Data Science...
+- 🌱 I’m currently learning ...
+- 
+- 💞️ I’m looking to collaborate on ... some open Source Projects I'll describe later on and some Private Projects!
+- 📫 How to reach me ... go to the objective
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: ... Animes, Series, Documentaries, 
