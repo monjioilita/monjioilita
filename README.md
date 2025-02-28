@@ -18,7 +18,7 @@ A privacidade e a precisão são garantidas. Vamos conectar? 🤝
 📢 Veja meu portfólio online aqui: **[Monji Oilita Portfolio](https://seu-usuario.github.io/monji-portfolio/)**
 
 # No Github:
-[![Portfolio Preview](images/monjitech-logo.jpg)](https://monjioilita.github.io/monjioilita/)
+[![Portfolio Preview](images/monjioilita-boss-pic)](https://monjioilita.github.io/monjioilita/)
 
 # Na Hospedagem e ou no dominio:
 [![Portfolio Preview](images/monjitech-logo.jpg)](https://monjioilita.vercel.app/)
