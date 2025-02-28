@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Monji Oilita - Cybersecurity Expert</title>
-    <link rel="stylesheet" href="./styles.css">
+    <link rel="stylesheet" href="./src/css/styles.css">
 </head>
 <body>
     <header>
@@ -41,6 +41,6 @@
         <p>Confidentiality & Accuracy Guaranteed. Let's Connect!</p>
     </footer>
     
-    <script type="text/javascript" src="./script.js"></script>
+    <script type="text/javascript" src="./src/js/script.js"></script>
 </body>
 </html>
