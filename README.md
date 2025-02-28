@@ -18,14 +18,22 @@ A privacidade e a precisão são garantidas. Vamos conectar? 🤝
 📢 Veja meu portfólio online aqui: **[Monji Oilita Portfolio](https://seu-usuario.github.io/monji-portfolio/)**
 
 # No Github:
-[![Portfolio Preview](images/monjioilita-boss-pic.jpeg)](https://monjioilita.github.io/monjioilita/)
+<p align="center">
+  <a href="https://monjioilita.github.io/monjioilita/">
+    <img src="images/monjioilita-boss-pic.jpeg" alt="Portfolio Preview on Hosting Platform and location" width="100%" />
+  </a>
+</p>
 
 # Na Hospedagem e ou no dominio:
-[![Portfolio Preview](images/monjitech-logo.jpg)](https://monjioilita.vercel.app/)
+<p align="center">
+  <a href="https://monjioilita.vercel.app/">
+    <img src="images/monjitech-logo.jpg" alt="Portfolio Preview on Hosting Platform and location" width="100%" />
+  </a>
+</p>
 
 # No Linkedin
 <p align="center">
-  <a href="https://seu-usuario.github.io/monjioilita/">
+  <a href="https://www.linkedin.com/in/monjioilita/">
     <img src="images/monjioilita-boss-pic.jpeg" alt="Portfolio Preview on LinkedIn" width="100%" />
   </a>
 </p>
